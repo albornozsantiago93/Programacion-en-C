@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1555961090 source:c:\workstation\tp2\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1555263223 c:\workstation\tp2\funcionesget.h
+
+1556298336 source:c:\workstation\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"funcionesGet.h"
+
+1557516426 source:c:\workstation\tp2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	<ctype.h>
+	"employee.h"
+	"funcionesGet.h"
+
+1556232122 c:\workstation\tp2\employee.h
+

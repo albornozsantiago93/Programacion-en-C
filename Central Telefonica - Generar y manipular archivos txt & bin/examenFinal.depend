@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1562888031 source:d:\albornoz santiago\final\examenfinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+	"funcionesGet.h"
+	"controller.h"
+	"parser.h"
+	"entidad.h"
+
+1562875970 d:\albornoz santiago\final\examenfinal\linkedlist.h
+	"entidad.h"
+
+1562887961 d:\albornoz santiago\final\examenfinal\entidad.h
+
+1561425268 d:\albornoz santiago\final\examenfinal\funcionesget.h
+
+1562884188 d:\albornoz santiago\final\examenfinal\controller.h
+
+1562877548 d:\albornoz santiago\final\examenfinal\parser.h
+
+1562888014 source:d:\albornoz santiago\final\examenfinal\entidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidad.h"
+	"funcionesGet.h"
+
+1561425278 source:d:\albornoz santiago\final\examenfinal\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1562885863 source:d:\albornoz santiago\final\examenfinal\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+	"entidad.h"
+
+1562888738 source:d:\albornoz santiago\final\examenfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"entidad.h"
+	"funcionesGet.h"
+	"controller.h"
+	"parser.h"
+
+1562888198 source:d:\albornoz santiago\final\examenfinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"entidad.h"
+	"parser.h"
+
+1563471858 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+	"funcionesGet.h"
+	"controller.h"
+	"parser.h"
+	"entidad.h"
+
+1563474687 c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\linkedlist.h
+	"entidad.h"
+
+1563122406 c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\entidad.h
+
+1561425268 c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\funcionesget.h
+
+1563471589 c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\controller.h
+
+1563471873 c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\parser.h
+
+1563123269 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\entidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"entidad.h"
+	"funcionesGet.h"
+
+1561425278 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1563480242 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+	"entidad.h"
+
+1563475804 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"entidad.h"
+	"funcionesGet.h"
+	"controller.h"
+	"parser.h"
+
+1563471836 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"entidad.h"
+	"parser.h"
+
+1563473235 source:c:\users\srmaxpower\desktop\recuperatorio 2do parcial laboratorio\albornoz santiago\final\examenfinal\abm.c
+

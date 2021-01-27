@@ -1,0 +1,262 @@
+# depslib dependency file v1.0
+1557179211 source:d:\albornoz_santiago_1f_p1\primerparcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1557179211 d:\albornoz_santiago_1f_p1\primerparcial\funcionesget.h
+
+1557189786 source:d:\albornoz_santiago_1f_p1\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557188724 source:d:\albornoz_santiago_1f_p1\primerparcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557189838 source:d:\albornoz_santiago_1f_p1\primerparcial\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557189954 source:d:\albornoz_santiago_1f_p1\primerparcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"autores.h"
+	"funcionesGet.h"
+
+1557189778 d:\albornoz_santiago_1f_p1\primerparcial\socios.h
+	"autores.h"
+	"libros.h"
+
+1557189936 d:\albornoz_santiago_1f_p1\primerparcial\autores.h
+
+1557188691 d:\albornoz_santiago_1f_p1\primerparcial\prestamos.h
+	"socios.h"
+
+1557190046 source:d:\albornoz_santiago_1f_p1\primerparcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557184811 d:\albornoz_santiago_1f_p1\primerparcial\libros.h
+	"autores.h"
+
+1557255155 source:c:\users\srmaxpower\desktop\primerparcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"autores.h"
+	"funcionesGet.h"
+
+1557254997 c:\users\srmaxpower\desktop\primerparcial\autores.h
+
+1557243612 c:\users\srmaxpower\desktop\primerparcial\funcionesget.h
+
+1557246401 source:c:\users\srmaxpower\desktop\primerparcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1557254854 source:c:\users\srmaxpower\desktop\primerparcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557255128 c:\users\srmaxpower\desktop\primerparcial\libros.h
+	"autores.h"
+
+1557243970 source:c:\users\srmaxpower\desktop\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557247617 c:\users\srmaxpower\desktop\primerparcial\socios.h
+	"autores.h"
+	"libros.h"
+
+1557243669 c:\users\srmaxpower\desktop\primerparcial\prestamos.h
+	"socios.h"
+
+1557188726 source:c:\users\srmaxpower\desktop\primerparcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557255236 source:c:\users\srmaxpower\desktop\primerparcial\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557255156 source:d:\albornoz santiago\primerparcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"autores.h"
+	"funcionesGet.h"
+
+1557254998 d:\albornoz santiago\primerparcial\autores.h
+
+1557243614 d:\albornoz santiago\primerparcial\funcionesget.h
+
+1557246402 source:d:\albornoz santiago\primerparcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1557254856 source:d:\albornoz santiago\primerparcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557255130 d:\albornoz santiago\primerparcial\libros.h
+	"autores.h"
+
+1557272740 source:d:\albornoz santiago\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557247618 d:\albornoz santiago\primerparcial\socios.h
+	"autores.h"
+	"libros.h"
+
+1557274556 d:\albornoz santiago\primerparcial\prestamos.h
+	"socios.h"
+
+1557275361 source:d:\albornoz santiago\primerparcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557265977 source:d:\albornoz santiago\primerparcial\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557781661 source:c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"autores.h"
+	"funcionesGet.h"
+
+1557781661 c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\autores.h
+
+1557781661 c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\funcionesget.h
+
+1560865920 source:c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"funcionesGet.h"
+
+1557781661 source:c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
+1557781661 c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\libros.h
+	"autores.h"
+
+1560872616 source:c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557781661 c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\socios.h
+	"autores.h"
+	"libros.h"
+
+1560872423 c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\prestamos.h
+	"socios.h"
+	"libros.h"
+
+1560872966 source:c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"prestamos.h"
+	"funcionesGet.h"
+
+1557781661 source:c:\users\srmaxpower\desktop\2daparte parcial\primerparcial\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<time.h>
+	"socios.h"
+	"libros.h"
+	"autores.h"
+	"funcionesGet.h"
+
